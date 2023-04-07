@@ -1,11 +1,7 @@
-name: Build And Deploy 🙏
+name: Build And Deploy Itch.IO 🙏
 
 on:
   workflow_dispatch:
-  push:
-    branches:
-      - website
-
 
 env:
   UNITY_LICENSE: ${{ secrets.UNITY_LICENSE }}
