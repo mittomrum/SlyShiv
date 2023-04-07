@@ -20,4 +20,4 @@ jobs:
         server: ftp.tomrum.nu
         username: ${{ secrets.ftp_username }}
         password: ${{ secrets.ftp_password }}
-        server-dir: /public_html/${{ github.event.repository.name }}/
+        server-dir: /public_html/slyshiv/
