@@ -1,4 +1,4 @@
-name: Deploy Website 🙏
+name: Deploy Website on Stablehost 🙏
 
 on:
   workflow_dispatch:
